@@ -47,7 +47,7 @@ Before you get started, ensure you have the following prerequisites:
 
 **Clone Repository:**
 ```bash
-git clone 
+git clone https://github.com/avi-poptani-003/TrackMania-ReinforcementLearning.git
 ```
 **keybind record:**
 If you want to record the keybind of the game then install the ffmpeg using following command in Terminal
